@@ -1,4 +1,5 @@
 <?php
 	echo 1;
-	include_once('./a.php');
+    echo '333' ;
+	echo '222';
 ?>
